@@ -1,2 +1,2 @@
-# Horloge-Num-rique
-Horloge numérique codé en pytthon avec Tkinter pour l'affichage de la fenetre 
+# Méteo en direct
+Permet de voir la météo d'une ville en direct via l'apel d'une API 
